@@ -1,6 +1,6 @@
 A bilingual recto-verso English-Latin facsimile edition (English transl. from Kosta Hadavas UW–Madison edition). Also a recto-verso English-German facisimile edition. The purpose of these volumes is for the personal book printing of whomever (e.g. via a book printing service).
 
-regarding copyright there are three parts (the English transl., the original scan and the interleaving work).  
+Regarding copyright there are multiple parts (the English transl., the scans of the originals and the interleaving work).  
 LICENSE → the copyright that applies to (1) and (4) below as (2) and (3) are in the public domain.  
 NOTICE → redundant file listing same source materials below  
   
