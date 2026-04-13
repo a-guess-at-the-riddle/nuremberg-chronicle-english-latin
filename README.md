@@ -2,8 +2,8 @@ A bilingual recto-verso English-Latin facsimile edition (English transl. from Ko
 The purpose is for the personal book printing of whomever (e.g. via a book printing service).
 
 regarding copyright there are three parts (the English transl., the original scan and the interleaving work).  
-LICENSE → my organizing and typesetting work  
-NOTICE → source materials  
+LICENSE → the copyright that applies to (1) and (3) below.
+NOTICE → redundant file listing same source materials below 
   
 1. English translation:
    © Kosta Hadavas / Board of Regents of the University of Wisconsin System
