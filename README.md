@@ -1,8 +1,7 @@
-A bilingual recto-verso English-Latin facsimile edition (English transl. from Kosta Hadavas UW–Madison edition).
-The purpose is for the personal book printing of whomever (e.g. via a book printing service).
+A bilingual recto-verso English-Latin facsimile edition (English transl. from Kosta Hadavas UW–Madison edition). Also a recto-verso English-German facisimile edition. The purpose of these volumes is for the personal book printing of whomever (e.g. via a book printing service).
 
 regarding copyright there are three parts (the English transl., the original scan and the interleaving work).  
-LICENSE → the copyright that applies to (1) and (3) below.  
+LICENSE → the copyright that applies to (1) and (4) below as (2) and (3) are in the public domain.  
 NOTICE → redundant file listing same source materials below  
   
 1. English translation:
@@ -12,8 +11,12 @@ NOTICE → redundant file listing same source materials below
 2. Latin source material:
    Liber Chronicarum (Nuremberg Chronicle, 1493)
    Public domain
+
+3. German source material:
+   Schedel’sche Weltchronik (Nuremberg Chronicle, 1493)
+   Public domain
   
-3. Editorial work (typesetting, alignment, structure, scripts):
+5. Editorial work (typesetting, alignment, structure, scripts):
    Original compilation © the project author
    Licensed under CC BY-NC 4.0
 
