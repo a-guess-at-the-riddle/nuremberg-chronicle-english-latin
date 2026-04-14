@@ -25,8 +25,8 @@ NOTICE → redundant file listing same source materials below
 
 ---
 
-Project Titles:
-   (a) *Nuremberg Chronicle (English-Latin recto/verso-facsimile)*
-   (b) *Nurember Chronicle (English-German recto/verso-facsimile)*
+Project Titles:  
+   (a) *Nuremberg Chronicle (English-Latin recto/verso-facsimile)*  
+   (b) *Nurember Chronicle (English-German recto/verso-facsimile)*  
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
